@@ -1,0 +1,7 @@
+{
+  "broker_ssl_enabled": true,
+  "broker_cert_path": "/etc/cloudify/ssl/cloudify_internal_cert.pem",
+  "broker_username": "cloudify",
+  "broker_password": "c10udify",
+  "broker_hostname": "10.128.3.31"
+}

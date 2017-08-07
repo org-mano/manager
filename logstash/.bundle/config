@@ -1,0 +1,5 @@
+---
+BUNDLE_PATH: /opt/logstash/vendor/bundle
+BUNDLE_GEMFILE: /opt/logstash/Gemfile
+BUNDLE_WITHOUT: build:development
+BUNDLE_DISABLE_SHARED_GEMS: '1'
